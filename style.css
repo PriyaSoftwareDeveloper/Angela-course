@@ -1,28 +1,19 @@
-
-.color-title[id="red"]{     /*  2  */
-    color: red;
+*{
+    background-color: antiquewhite;
 }
 
-#blue{
-    color: blue;
+h1{
+    color: whitesmoke;
 }
 
-#orange{
-    color: orange;
-}
-#green{
-    color: green;
+h1{
+    background: darkseagreen;
 }
 
-#yellow{
-    color: yellow;
+h2{
+    color: #FAF8F1;
 }
 
-.color-title{                   /*  3  */
-    font-weight: normal;
-}
-
-img{                            /*  4  */
-    height: 200px;
-    width: 200px;
+h2{
+    background: #C58940;
 }
