@@ -1,19 +1,17 @@
-*{
-    background-color: antiquewhite;
+html{
+    background-color: black;
 }
-
-h1{
-    color: whitesmoke;
+div{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
 }
-
-h1{
-    background: darkseagreen;
+#h1-font{
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
 }
-
-h2{
-    color: #FAF8F1;
-}
-
-h2{
-    background: #C58940;
+img{
+    border: 5px solid white;
+    width: 100%;
 }
